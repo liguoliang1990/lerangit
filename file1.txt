@@ -5,7 +5,5 @@ git is a free software git 是一款免费的软件
 aaaaa dddd 
   ccccc  
   asasdfsdfasd
-
-create a new branch is very quickly & simple.....
-
-
+ 
+create a new branch is very quickly and very simple 
